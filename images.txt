@@ -8,3 +8,4 @@ registry.k8s.io/kube-scheduler:v1.31.0
 registry.k8s.io/conformance:v1.31.0
 library/wordpress
 mysql:5.6
+gitlab/gitlab-ce:15.0.3-ce.0
