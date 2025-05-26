@@ -1,11 +1,6 @@
 #支持私库
-ghcr.io/whyour/qinglong:debian
-gotify/server
-registry.k8s.io/kube-apiserver:v1.31.0
-registry.k8s.io/kube-controller-manager:v1.31.0
-registry.k8s.io/kube-proxy:v1.31.0
-registry.k8s.io/kube-scheduler:v1.31.0
-registry.k8s.io/conformance:v1.31.0
+centos:latest
+ubuntu:latest
 library/wordpress
 mysql:5.6
 gitlab/gitlab-ce:15.0.3-ce.0
