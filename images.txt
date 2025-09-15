@@ -1,1 +1,1 @@
-tenable/nessus:latest
+tenable/nessus:latest-ubuntu
